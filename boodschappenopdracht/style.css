@@ -1,0 +1,35 @@
+*{
+  font-family: sans-serif ;
+}
+
+
+table, th, td {
+    border:1px solid #888;
+    padding: 10px;
+    
+  }
+  table {width: 20%;
+    border-collapse: collapse;
+    text-align: left;
+  }
+
+  .rood {
+    background-color: red;
+    color: #fff;
+  }
+  .blauw {
+    background-color: blue;
+    color: #fff;
+  }
+
+  .groen {
+    background-color: green;
+    color: #fff;
+  }
+
+.kleurentabel{
+  text-align: center;
+}
+.bedrag{
+  text-align: right;
+}
